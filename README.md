@@ -1,1 +1,31 @@
-"# Model Prediction vs Business Risk\n\n## Overview\nThis project explores insurance data to build predictive models and analyze their impact on business risk. It combines data analysis, machine learning, and interactive dashboards to provide actionable insights.\n\n## Project Contents\n- INSURANCE DATASET.ipynb - Jupyter Notebook for data exploration, preprocessing, and model development.\n- model REST API and Front end.py - Python script for serving the model through a REST API and integrating with a front-end interface.\n- model prediction vs business risk dashboard.twbx - Tableau dashboard for visualizing predictions and business risk.\n- Dashboard 3.png & model execution with api.png - Screenshots of dashboards and model execution.\n- Code pdf.pdf - Documentation of code and methodology.\n- .gitignore - Specifies files and folders to ignore in Git.\n- README.md - Project documentation.\n\n## How to Use\n1. Clone the repository:\n```\ngit clone https://github.com/rautujwal/Model-prediction-vs-Business-Risk.git\n```\n2. Install dependencies (Python packages or Tableau if required).\n3. Run the Jupyter Notebook to explore data and build models.\n4. Run the Python REST API script to serve the model.\n5. Open the Tableau dashboard to visualize predictions and business risk.\n\n## Technologies Used\n- Python (Pandas, NumPy, scikit-learn, Flask)\n- Jupyter Notebook\n- Tableau\n\n## License\nThis project is for educational purposes." 
+# Model Prediction vs Business Risk 
+ 
+## Overview 
+This project explores insurance data to build predictive models and analyze their impact on business risk. It combines data analysis, machine learning, and interactive dashboards to provide actionable insights. 
+ 
+## Project Contents 
+- INSURANCE DATASET.ipynb - Jupyter Notebook for data exploration, preprocessing, and model development. 
+- model REST API and Front end.py - Python script for serving the model through a REST API and integrating with a front-end interface. 
+- model prediction vs business risk dashboard.twbx - Tableau dashboard for visualizing predictions and business risk. 
+- Dashboard 3.png and model execution with api.png - Screenshots of dashboards and model execution. 
+- Code pdf.pdf - Documentation of code and methodology. 
+- .gitignore - Specifies files and folders to ignore in Git. 
+- README.md - Project documentation. 
+ 
+## How to Use 
+1. Clone the repository: 
+ 
+git clone https://github.com/rautujwal/Model-prediction-vs-Business-Risk.git 
+ 
+2. Install dependencies \(Python packages or Tableau if required\). 
+3. Run the Jupyter Notebook to explore data and build models. 
+4. Run the Python REST API script to serve the model. 
+5. Open the Tableau dashboard to visualize predictions and business risk. 
+ 
+## Technologies Used 
+- Python \(Pandas, NumPy, scikit-learn, Flask\) 
+- Jupyter Notebook 
+- Tableau 
+ 
+## License 
+This project is for educational purposes. 
