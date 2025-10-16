@@ -1,7 +1,7 @@
 # Model Prediction vs Business Risk 
  
 ## Overview 
-This project explores insurance data to build predictive models and analyze their impact on business risk. It combines data analysis, machine learning, and interactive dashboards to provide actionable insights. 
+This project explores insurance data to build predictive models and analyze their impact on business risk. The main objective is to determine whether the predicted prices are creating business risks such as revenue risk or loyalty risk, helping stakeholders identify potential financial impacts from prediction errors. 
  
 ## Project Contents 
 - INSURANCE DATASET.ipynb - Jupyter Notebook for data exploration, preprocessing, and model development. 
@@ -26,6 +26,3 @@ git clone https://github.com/rautujwal/Model-prediction-vs-Business-Risk.git
 - Python \(Pandas, NumPy, scikit-learn, Flask\) 
 - Jupyter Notebook 
 - Tableau 
- 
-## License 
-This project is for educational purposes. 
